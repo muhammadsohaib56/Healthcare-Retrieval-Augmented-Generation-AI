@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+documents.json
+mimic-iv-ext-direct-1.0.0/
+.env
+*.ipynb_checkpoints/
